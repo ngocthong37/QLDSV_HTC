@@ -1,0 +1,627 @@
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\QLNV1.exe.config
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\QLNV1.exe
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\QLNV1.pdb
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.csprojAssemblyReference.cache
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.MainForm.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.Properties.Resources.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.csproj.GenerateResource.cache
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.exe.licenses
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.csproj.CoreCompileInputs.cache
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.csproj.CopyComplete
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.exe
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.pdb
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmDangNhap.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmLopHoc.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmMonHoc.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmSinhVien.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmLopTinChi.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmDangKi.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmDiem.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmTaoTaiKhoan.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frmHocPhi.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.Xrpt_SVDangKyLTC.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frptDSLTC.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frptInDSSVLTC.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.Xtrp_InDanhSachLopTinChi_Report.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frptBDHM.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.Xrpt_InBDHM.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frptPhieuDiemSV.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frptHocPhi.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.XrptInHocPhi.resources
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Data.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Images.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Data.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.XrptBDTK.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.XrptPhieuDiemSV.resources
+D:\ProjectWinform\QLNV\QLNV1\obj\Debug\QLNV1.frptBDTK.resources
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\QLNV1.exe.config
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\QLNV1.exe
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\QLNV1.pdb
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.csprojAssemblyReference.cache
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmDangKi.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmDangNhap.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmDiem.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmHocPhi.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmLopHoc.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmLopTinChi.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmMonHoc.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmSinhVien.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frmTaoTaiKhoan.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frptBDHM.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frptBDTK.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frptDSLTC.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frptHocPhi.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frptInDSSVLTC.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.frptPhieuDiemSV.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.MainForm.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.Properties.Resources.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.XrptBDTK.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.XrptInHocPhi.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.XrptPhieuDiemSV.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.Xrpt_InBDHM.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.Xrpt_SVDangKyLTC.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.Xtrp_InDanhSachLopTinChi_Report.resources
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.csproj.GenerateResource.cache
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.exe.licenses
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.csproj.CoreCompileInputs.cache
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.csproj.CopyComplete
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.exe
+D:\Project MonHoc\qldsv\QLNV1\obj\Debug\QLNV1.pdb
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\QLNV1.exe.config
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\QLNV1.exe
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\QLNV1.pdb
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.csproj.AssemblyReference.cache
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmDangKi.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmDangNhap.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmDiem.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmHocPhi.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmLopHoc.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmLopTinChi.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmMonHoc.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmSinhVien.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frmTaoTaiKhoan.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frptBDHM.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frptBDTK.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frptDSLTC.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frptHocPhi.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frptInDSSVLTC.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.frptPhieuDiemSV.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.MainForm.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.Properties.Resources.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.XrptBDTK.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.XrptInHocPhi.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.XrptPhieuDiemSV.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.Xrpt_InBDHM.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.Xrpt_SVDangKyLTC.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.Xtrp_InDanhSachLopTinChi_Report.resources
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.csproj.GenerateResource.cache
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.exe.licenses
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.csproj.CoreCompileInputs.cache
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.csproj.CopyComplete
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.exe
+C:\Users\T3D Computer\Downloads\SourceCode-20230514T045833Z-001\SourceCode\QLNV1\obj\Debug\QLNV1.pdb
