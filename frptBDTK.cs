@@ -22,7 +22,7 @@ namespace QLNV1
 
         private void frptBDTK_Load(object sender, EventArgs e)
         {
-
+            DS.EnforceConstraints = false;
             this.LOPTableAdapter.Connection.ConnectionString = Program.connstr;
             this.LOPTableAdapter.Fill(this.DS.LOP);
 
@@ -47,6 +47,12 @@ namespace QLNV1
             if (cbKhoa.SelectedValue.ToString() == "System.Data.DataRowView")
                 return;
             Program.severname = cbKhoa.SelectedValue.ToString();
+            if (cbKhoa.SelectedIndex == 2)
+            {
+                MessageBox.Show("Bạn không thể chuyển sang nhánh này", "", MessageBoxButtons.OK);
+                cbKhoa.SelectedIndex = 0;
+                return;
+            }
             if (cbKhoa.SelectedIndex != Program.mChinhanh)
             {
                 Program.mlogin = Program.remotelogin;

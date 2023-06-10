@@ -77,7 +77,8 @@ namespace QLNV1
             {
                 DangKibarButton.Enabled = true;
                 DiemButtonItem.Enabled = HocPhibarButton.Enabled = LopHocbarButton.Enabled = LopTinChibarButton.Enabled = MonHocButtonItem.Enabled = btnSinhVien.Enabled = btnTaoTK.Enabled= false;
-                rpBaoCao.Visible = false;   
+                rpBaoCao.Visible = true;
+                barButtonItem4.Enabled = barButtonItem5.Enabled = btnLapPhieuNX.Enabled = barButtonItem7.Enabled = barButtonItem8.Enabled = false;
             }
             if (Program.mGroup.Equals("PKT"))
             {

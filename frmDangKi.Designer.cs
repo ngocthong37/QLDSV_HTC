@@ -218,7 +218,7 @@ namespace QLNV1
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
             this.barDockControlTop.Manager = this.barManager1;
-            this.barDockControlTop.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.barDockControlTop.Margin = new System.Windows.Forms.Padding(4);
             this.barDockControlTop.Size = new System.Drawing.Size(1624, 55);
             // 
             // barDockControlBottom
@@ -227,7 +227,7 @@ namespace QLNV1
             this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.barDockControlBottom.Location = new System.Drawing.Point(0, 981);
             this.barDockControlBottom.Manager = this.barManager1;
-            this.barDockControlBottom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.barDockControlBottom.Margin = new System.Windows.Forms.Padding(4);
             this.barDockControlBottom.Size = new System.Drawing.Size(1624, 20);
             // 
             // barDockControlLeft
@@ -236,7 +236,7 @@ namespace QLNV1
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
             this.barDockControlLeft.Location = new System.Drawing.Point(0, 55);
             this.barDockControlLeft.Manager = this.barManager1;
-            this.barDockControlLeft.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.barDockControlLeft.Margin = new System.Windows.Forms.Padding(4);
             this.barDockControlLeft.Size = new System.Drawing.Size(0, 926);
             // 
             // barDockControlRight
@@ -245,7 +245,7 @@ namespace QLNV1
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
             this.barDockControlRight.Location = new System.Drawing.Point(1624, 55);
             this.barDockControlRight.Manager = this.barManager1;
-            this.barDockControlRight.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.barDockControlRight.Margin = new System.Windows.Forms.Padding(4);
             this.barDockControlRight.Size = new System.Drawing.Size(0, 926);
             // 
             // btnThem
@@ -299,7 +299,7 @@ namespace QLNV1
             this.panelControl1.Controls.Add(this.label1);
             this.panelControl1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelControl1.Location = new System.Drawing.Point(0, 55);
-            this.panelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl1.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl1.Name = "panelControl1";
             this.panelControl1.Size = new System.Drawing.Size(1624, 50);
             this.panelControl1.TabIndex = 4;
@@ -316,7 +316,7 @@ namespace QLNV1
             this.panelControl2.Controls.Add(this.label2);
             this.panelControl2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelControl2.Location = new System.Drawing.Point(0, 105);
-            this.panelControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl2.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl2.Name = "panelControl2";
             this.panelControl2.Size = new System.Drawing.Size(1624, 109);
             this.panelControl2.TabIndex = 5;
@@ -325,7 +325,7 @@ namespace QLNV1
             // 
             this.cbHocKi.FormattingEnabled = true;
             this.cbHocKi.Location = new System.Drawing.Point(1018, 69);
-            this.cbHocKi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbHocKi.Margin = new System.Windows.Forms.Padding(4);
             this.cbHocKi.Name = "cbHocKi";
             this.cbHocKi.Size = new System.Drawing.Size(286, 27);
             this.cbHocKi.TabIndex = 6;
@@ -334,7 +334,7 @@ namespace QLNV1
             // 
             this.cbNienKhoa.FormattingEnabled = true;
             this.cbNienKhoa.Location = new System.Drawing.Point(1018, 25);
-            this.cbNienKhoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbNienKhoa.Margin = new System.Windows.Forms.Padding(4);
             this.cbNienKhoa.Name = "cbNienKhoa";
             this.cbNienKhoa.Size = new System.Drawing.Size(286, 27);
             this.cbNienKhoa.TabIndex = 5;
@@ -353,7 +353,7 @@ namespace QLNV1
             // btnSearchLopTinChi
             // 
             this.btnSearchLopTinChi.Location = new System.Drawing.Point(1336, 20);
-            this.btnSearchLopTinChi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSearchLopTinChi.Margin = new System.Windows.Forms.Padding(4);
             this.btnSearchLopTinChi.Name = "btnSearchLopTinChi";
             this.btnSearchLopTinChi.Size = new System.Drawing.Size(121, 74);
             this.btnSearchLopTinChi.TabIndex = 2;
@@ -363,7 +363,7 @@ namespace QLNV1
             // btnSearchSinhVien
             // 
             this.btnSearchSinhVien.Location = new System.Drawing.Point(553, 20);
-            this.btnSearchSinhVien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSearchSinhVien.Margin = new System.Windows.Forms.Padding(4);
             this.btnSearchSinhVien.Name = "btnSearchSinhVien";
             this.btnSearchSinhVien.Size = new System.Drawing.Size(121, 27);
             this.btnSearchSinhVien.TabIndex = 2;
@@ -384,7 +384,7 @@ namespace QLNV1
             // txbMaSV
             // 
             this.txbMaSV.Location = new System.Drawing.Point(240, 20);
-            this.txbMaSV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txbMaSV.Margin = new System.Windows.Forms.Padding(4);
             this.txbMaSV.Name = "txbMaSV";
             this.txbMaSV.Size = new System.Drawing.Size(286, 27);
             this.txbMaSV.TabIndex = 1;
@@ -402,10 +402,10 @@ namespace QLNV1
             // SINHVIENgridControl
             // 
             this.SINHVIENgridControl.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.SINHVIENgridControl.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.SINHVIENgridControl.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
             this.SINHVIENgridControl.Location = new System.Drawing.Point(2, 2);
             this.SINHVIENgridControl.MainView = this.gridView1;
-            this.SINHVIENgridControl.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.SINHVIENgridControl.Margin = new System.Windows.Forms.Padding(4);
             this.SINHVIENgridControl.MenuManager = this.barManager1;
             this.SINHVIENgridControl.Name = "SINHVIENgridControl";
             this.SINHVIENgridControl.Size = new System.Drawing.Size(775, 389);
@@ -490,10 +490,10 @@ namespace QLNV1
             // LOPTINCHIgridControl
             // 
             this.LOPTINCHIgridControl.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.LOPTINCHIgridControl.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.LOPTINCHIgridControl.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
             this.LOPTINCHIgridControl.Location = new System.Drawing.Point(2, 2);
             this.LOPTINCHIgridControl.MainView = this.gridView2;
-            this.LOPTINCHIgridControl.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.LOPTINCHIgridControl.Margin = new System.Windows.Forms.Padding(4);
             this.LOPTINCHIgridControl.MenuManager = this.barManager1;
             this.LOPTINCHIgridControl.Name = "LOPTINCHIgridControl";
             this.LOPTINCHIgridControl.Size = new System.Drawing.Size(837, 389);
@@ -605,7 +605,7 @@ namespace QLNV1
             // simpleButton2
             // 
             this.simpleButton2.Location = new System.Drawing.Point(436, 86);
-            this.simpleButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.simpleButton2.Margin = new System.Windows.Forms.Padding(4);
             this.simpleButton2.Name = "simpleButton2";
             this.simpleButton2.Size = new System.Drawing.Size(121, 74);
             this.simpleButton2.TabIndex = 22;
@@ -615,7 +615,7 @@ namespace QLNV1
             // txbMaLopTinChi
             // 
             this.txbMaLopTinChi.Location = new System.Drawing.Point(183, 132);
-            this.txbMaLopTinChi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txbMaLopTinChi.Margin = new System.Windows.Forms.Padding(4);
             this.txbMaLopTinChi.Name = "txbMaLopTinChi";
             this.txbMaLopTinChi.ReadOnly = true;
             this.txbMaLopTinChi.Size = new System.Drawing.Size(220, 27);
@@ -634,7 +634,7 @@ namespace QLNV1
             // txbMaSVDK
             // 
             this.txbMaSVDK.Location = new System.Drawing.Point(183, 86);
-            this.txbMaSVDK.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txbMaSVDK.Margin = new System.Windows.Forms.Padding(4);
             this.txbMaSVDK.Name = "txbMaSVDK";
             this.txbMaSVDK.ReadOnly = true;
             this.txbMaSVDK.Size = new System.Drawing.Size(220, 27);
@@ -667,7 +667,7 @@ namespace QLNV1
             this.panelControl3.Controls.Add(this.panelControl8);
             this.panelControl3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panelControl3.Location = new System.Drawing.Point(0, 643);
-            this.panelControl3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl3.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl3.Name = "panelControl3";
             this.panelControl3.Size = new System.Drawing.Size(1624, 338);
             this.panelControl3.TabIndex = 27;
@@ -677,10 +677,10 @@ namespace QLNV1
             this.panelControl9.Controls.Add(this.panelControl11);
             this.panelControl9.Controls.Add(this.panelControl10);
             this.panelControl9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelControl9.Location = new System.Drawing.Point(597, 2);
-            this.panelControl9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl9.Location = new System.Drawing.Point(659, 2);
+            this.panelControl9.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl9.Name = "panelControl9";
-            this.panelControl9.Size = new System.Drawing.Size(1025, 334);
+            this.panelControl9.Size = new System.Drawing.Size(963, 334);
             this.panelControl9.TabIndex = 24;
             // 
             // panelControl11
@@ -688,21 +688,21 @@ namespace QLNV1
             this.panelControl11.Controls.Add(this.DSLTC_HUYgridControl);
             this.panelControl11.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelControl11.Location = new System.Drawing.Point(2, 30);
-            this.panelControl11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl11.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl11.Name = "panelControl11";
-            this.panelControl11.Size = new System.Drawing.Size(1021, 302);
+            this.panelControl11.Size = new System.Drawing.Size(959, 302);
             this.panelControl11.TabIndex = 2;
             // 
             // DSLTC_HUYgridControl
             // 
             this.DSLTC_HUYgridControl.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.DSLTC_HUYgridControl.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DSLTC_HUYgridControl.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
             this.DSLTC_HUYgridControl.Location = new System.Drawing.Point(2, 2);
             this.DSLTC_HUYgridControl.MainView = this.gridView3;
-            this.DSLTC_HUYgridControl.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DSLTC_HUYgridControl.Margin = new System.Windows.Forms.Padding(4);
             this.DSLTC_HUYgridControl.MenuManager = this.barManager1;
             this.DSLTC_HUYgridControl.Name = "DSLTC_HUYgridControl";
-            this.DSLTC_HUYgridControl.Size = new System.Drawing.Size(1017, 298);
+            this.DSLTC_HUYgridControl.Size = new System.Drawing.Size(955, 298);
             this.DSLTC_HUYgridControl.TabIndex = 0;
             this.DSLTC_HUYgridControl.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView3});
@@ -800,9 +800,9 @@ namespace QLNV1
             this.panelControl10.Controls.Add(this.label10);
             this.panelControl10.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelControl10.Location = new System.Drawing.Point(2, 2);
-            this.panelControl10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl10.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl10.Name = "panelControl10";
-            this.panelControl10.Size = new System.Drawing.Size(1021, 28);
+            this.panelControl10.Size = new System.Drawing.Size(959, 28);
             this.panelControl10.TabIndex = 1;
             // 
             // label10
@@ -812,9 +812,9 @@ namespace QLNV1
             this.label10.Location = new System.Drawing.Point(381, 4);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(605, 25);
+            this.label10.Size = new System.Drawing.Size(431, 25);
             this.label10.TabIndex = 0;
-            this.label10.Text = "DANH SÁCH LỚP TÍN CHỈ SV ĐÃ ĐĂNG KÍ CÓ THỂ HỦY";
+            this.label10.Text = "DANH SÁCH LỚP TÍN CHỈ ĐÃ ĐĂNG KÝ";
             // 
             // panelControl8
             // 
@@ -826,9 +826,9 @@ namespace QLNV1
             this.panelControl8.Controls.Add(this.label8);
             this.panelControl8.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelControl8.Location = new System.Drawing.Point(2, 2);
-            this.panelControl8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl8.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl8.Name = "panelControl8";
-            this.panelControl8.Size = new System.Drawing.Size(595, 334);
+            this.panelControl8.Size = new System.Drawing.Size(657, 334);
             this.panelControl8.TabIndex = 23;
             // 
             // panelControl4
@@ -837,7 +837,7 @@ namespace QLNV1
             this.panelControl4.Controls.Add(this.label6);
             this.panelControl4.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelControl4.Location = new System.Drawing.Point(0, 214);
-            this.panelControl4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl4.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl4.Name = "panelControl4";
             this.panelControl4.Size = new System.Drawing.Size(1624, 32);
             this.panelControl4.TabIndex = 28;
@@ -848,7 +848,7 @@ namespace QLNV1
             this.panelControl5.Controls.Add(this.panelControl6);
             this.panelControl5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelControl5.Location = new System.Drawing.Point(0, 246);
-            this.panelControl5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl5.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl5.Name = "panelControl5";
             this.panelControl5.Size = new System.Drawing.Size(1624, 397);
             this.panelControl5.TabIndex = 29;
@@ -858,7 +858,7 @@ namespace QLNV1
             this.panelControl7.Controls.Add(this.LOPTINCHIgridControl);
             this.panelControl7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelControl7.Location = new System.Drawing.Point(781, 2);
-            this.panelControl7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl7.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl7.Name = "panelControl7";
             this.panelControl7.Size = new System.Drawing.Size(841, 393);
             this.panelControl7.TabIndex = 1;
@@ -868,7 +868,7 @@ namespace QLNV1
             this.panelControl6.Controls.Add(this.SINHVIENgridControl);
             this.panelControl6.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelControl6.Location = new System.Drawing.Point(2, 2);
-            this.panelControl6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelControl6.Margin = new System.Windows.Forms.Padding(4);
             this.panelControl6.Name = "panelControl6";
             this.panelControl6.Size = new System.Drawing.Size(779, 393);
             this.panelControl6.TabIndex = 0;
@@ -887,7 +887,7 @@ namespace QLNV1
             this.Controls.Add(this.barDockControlRight);
             this.Controls.Add(this.barDockControlBottom);
             this.Controls.Add(this.barDockControlTop);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmDangKi";
             this.Text = "Đăng kí LTC";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

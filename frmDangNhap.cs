@@ -98,6 +98,7 @@ namespace QLNV1
                 {
                     Program.mHoten = reader.GetString(1);
                     Program.username = reader.GetString(0);
+                    Program.mGroup = reader.GetString(2);
                 }
                 catch (Exception)
                 {

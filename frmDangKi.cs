@@ -158,7 +158,7 @@ namespace QLNV1
             GridView view = sender as GridView;
             if (e.RowHandle == view.FocusedRowHandle)
             {
-                e.Appearance.BackColor = Color.LawnGreen;
+                e.Appearance.BackColor = Color.Red;
             }
         }
 
@@ -181,7 +181,7 @@ namespace QLNV1
             GridView view = sender as GridView;
             if (e.RowHandle == view.FocusedRowHandle)
             {
-                e.Appearance.BackColor = Color.LawnGreen;
+                e.Appearance.BackColor = Color.Blue;
             }
         }
 
