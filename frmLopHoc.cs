@@ -308,7 +308,13 @@ namespace QLNV1
             if (cbKhoa.SelectedValue.ToString() == "System.Data.DataRowView")
                 return;
             Program.severname = cbKhoa.SelectedValue.ToString();
-            if(cbKhoa.SelectedIndex != Program.mChinhanh)
+            if (cbKhoa.SelectedIndex == 2)
+            {
+                MessageBox.Show("Bạn không thể chuyển sang nhánh này", "", MessageBoxButtons.OK);
+                cbKhoa.SelectedIndex = 0;
+                return;
+            }
+            if (cbKhoa.SelectedIndex != Program.mChinhanh)
             {
                 Program.mlogin = Program.remotelogin;
                 Program.password = Program.remotepassword;

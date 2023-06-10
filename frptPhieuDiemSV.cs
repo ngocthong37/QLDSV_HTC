@@ -58,21 +58,34 @@ namespace QLNV1
                 XtraMessageBox.Show("Lỗi kết nối với database. Mời bạn xem lại", "", MessageBoxButtons.OK);
                 this.Close();
             }
+            if (resultMa == 1 && Program.mGroup == "SV" && Program.username != txbMaSV.Text)
+            {
+                XtraMessageBox.Show("Bạn chỉ được xem phiếu điểm của chính mình.", "", MessageBoxButtons.OK);
+                return true;
+            }
             if (resultMa == 1)
             {
               //  XtraMessageBox.Show("Mã Sinh Viên đã tồn tại. Mời bạn nhập mã khác !", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
+
+            
+
             if (resultMa == 2 && Program.mGroup =="KHOA")
             {
                 XtraMessageBox.Show("Sinh viên thuộc khoa khác, Bạn không có quyền truy cập. Mời bạn nhập lại !", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return true;
             }
-            if (resultMa == 2)
+            
+
+                if (resultMa == 2)
             {
                
                 return false;
             }
+
+            
+
             else
             {
                  XtraMessageBox.Show("Mã Sinh Viên không tồn tại. Mời bạn nhập lại !", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);

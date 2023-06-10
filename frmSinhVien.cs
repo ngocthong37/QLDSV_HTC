@@ -162,7 +162,6 @@ namespace QLNV1
                         return false;
                     }
                 }
-                
             }
             return true;
         }
@@ -170,6 +169,15 @@ namespace QLNV1
         {
             if (cbKhoa.SelectedValue.ToString() == "System.Data.DataRowView")
                 return;
+
+
+            if (cbKhoa.SelectedIndex == 2)
+            {
+                MessageBox.Show("Bạn không thể chuyển sang nhánh này", "", MessageBoxButtons.OK);
+                cbKhoa.SelectedIndex = 0;
+                return;
+            }
+
             Program.severname = cbKhoa.SelectedValue.ToString();
             if (cbKhoa.SelectedIndex != Program.mChinhanh)
             {
@@ -181,6 +189,9 @@ namespace QLNV1
                 Program.mlogin = Program.mloginDN;
                 Program.password = Program.passwordDN;
             }
+
+
+
             if (Program.KetNoi() == 0)
             {
                 MessageBox.Show("Lỗi kết nối về chi nhánh mới", "", MessageBoxButtons.OK);

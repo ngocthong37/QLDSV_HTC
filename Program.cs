@@ -111,7 +111,6 @@ namespace QLNV1
         {
             SqlDataReader dataReader = Program.ExecSqlDataReader(query);
 
-            // nếu null thì thoát luôn  ==> lỗi kết nối
             if (dataReader == null)
             {
                 return -1;

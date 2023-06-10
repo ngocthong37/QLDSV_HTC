@@ -57,13 +57,19 @@ namespace QLNV1
             cbHocKi.DisplayMember = "HOCKY";
             cbHocKi.ValueMember = "HOCKY";
         }
-        private void btnSearchLopTinChi_Click(object sender, EventArgs e)
+        private void loadLopTinChi()
         {
-            string cmd = "EXEC [dbo].[SP_InDanhSachLopTinChi] '" + cbNienKhoa.Text + "', '" + cbHocKi.Text+ "'";
+            string cmd = "EXEC [dbo].[SP_InDanhSachLopTinChi] '" + cbNienKhoa.Text + "', '" + cbHocKi.Text + "'";
             DataTable tableLopTC = Program.ExecSqlDataTable(cmd);
             this.bdsLopTinchi.DataSource = tableLopTC;
             this.LOPTINCHIgridControl.DataSource = this.bdsLopTinchi;
         }
+        private void btnSearchLopTinChi_Click(object sender, EventArgs e)
+        {
+            loadLopTinChi();
+        }
+
+        
 
         private void LOPTINCHIgridControl_MouseClick(object sender, MouseEventArgs e)
         {
@@ -134,6 +140,7 @@ namespace QLNV1
                     DataTable tableDSLTC_HUY = Program.ExecSqlDataTable(cmd1);
                     this.bdsDSLTC_HUY.DataSource = tableDSLTC_HUY;
                     this.DSLTC_HUYgridControl.DataSource = this.bdsDSLTC_HUY;
+                    loadLopTinChi();
                 }
                 else
                 {
@@ -151,7 +158,7 @@ namespace QLNV1
             GridView view = sender as GridView;
             if (e.RowHandle == view.FocusedRowHandle)
             {
-                e.Appearance.BackColor = Color.LawnGreen;
+                e.Appearance.BackColor = Color.Red;
             }
         }
 
@@ -174,7 +181,7 @@ namespace QLNV1
             GridView view = sender as GridView;
             if (e.RowHandle == view.FocusedRowHandle)
             {
-                e.Appearance.BackColor = Color.LawnGreen;
+                e.Appearance.BackColor = Color.Blue;
             }
         }
 
@@ -245,6 +252,7 @@ namespace QLNV1
                     DataTable tableDSLTC_HUY = Program.ExecSqlDataTable(cmd1);
                     this.bdsDSLTC_HUY.DataSource = tableDSLTC_HUY;
                     this.DSLTC_HUYgridControl.DataSource = this.bdsDSLTC_HUY;
+                    loadLopTinChi();
                 }
                 else
                 {
